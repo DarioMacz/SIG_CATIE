@@ -1,4 +1,4 @@
-ID;Estacion;Nombre_Estación;Longitud;Latitud;Lluvia_mm
+ID_Estacion;Nombre_Estación;Longitud;Latitud;Lluvia_mm
 11;Nueve Aguas;-90.15497;15.24998;3272.1
 40;El Porvenir;-89.81759;15.41599;2971.2
 46;Yaxbatz;-90.34483;15.54371;89.3
